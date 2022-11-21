@@ -1,0 +1,20 @@
+{
+  "name": "The-A-Team-Trivia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cjs-module": "^1.5.0",
+    "node-emoji": "^1.11.0",
+    "readline-sync": "^1.4.10",
+    "terminal-link": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
